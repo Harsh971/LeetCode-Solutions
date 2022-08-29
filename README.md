@@ -22,10 +22,28 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 
 - [LeetCode 75 Study Plan to Ace Interview Level 1](#leetcode-75-study-plan-to-ace-interview-level-1)
 - [LeetCode 75 Study Plan to Ace Interview Level 2](#)
-- [All Practice Problems](#)
+- [All Practice Problems](#all-practice-problems)
 
 
 ## LeetCode 75 Study Plan to Ace Interview Level 1
+
+|  | Problem Name     |Difficulty Level|Solution|Time Complexity|Space Complexity|
+| :-: | :-: |:-:| :-: | :-:|:-:|
+| 1      | Two Sum | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Two-Sum.java)|O(n)|O(n)|
+| 9      | Palindrome Number | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Palindrome-Number.cpp)|O(log n)|O(log n)|
+| 13     | Roman to Integer | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Roman-to-Integer.cpp)|O(n)|O(1)|
+| 844    | Backspace String Compare | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Backspace-String-Compare.cpp)|O(n)|O(1)|
+
+
+
+## All Practice Problems
+
+|  | Problem Name     |Difficulty Level|Solution|Time Complexity|Space Complexity|
+| :-: | :-: |:-:| :-: | :-:|:-:|
+| 1      | Two Sum | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Two-Sum.java)|O(n)|O(n)|
+| 9      | Palindrome Number | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Palindrome-Number.cpp)|O(log n)|O(log n)|
+| 13     | Roman to Integer | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Roman-to-Integer.cpp)|O(n)|O(1)|
+| 844    | Backspace String Compare | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Backspace-String-Compare.cpp)|O(n)|O(1)|
 
 ## Feedback
 If you have any feedback, please reach out to us at harsh.thakkar0369@gmail.com
