@@ -50,7 +50,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 102    | Binary Tree Level Order Traversal | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Binary-Tree-Level-Order-Traversal.cpp)|O(n)|O(n)|
 | 121    | Best Time to Buy and Sell Stock | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Best-Time-to-Buy-and-Sell-Stock.cpp)|O(n)|O(1)|
 | 299    | Bulls and Cows | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Bulls-and-Cows.cpp)|O(n)|O(1)|
-| 704    | Binary Search | Easy|[Click Here](hhttps://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Binary-Search.cpp)|O(log n)|O(1)|
+| 704    | Binary Search | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Binary-Search.cpp)|O(log n)|O(1)|
 | 844    | Backspace String Compare | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Backspace-String-Compare.cpp)|O(n)|O(1)|
 
 ## Feedback
