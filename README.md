@@ -37,7 +37,9 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 102    | Binary Tree Level Order Traversal | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Binary-Tree-Level-Order-Traversal.cpp)|O(n)|O(n)|
 | 121    | Best Time to Buy and Sell Stock | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Best-Time-to-Buy-and-Sell-Stock.cpp)|O(n)|O(1)|
 | 142    | Linked List Cycle 2 | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Linked-List-Cycle-2.cpp)|O(n)|O(1)|
+| 200    | Number of Islands | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Number-of-Islands.cpp)|O(m*n)|O(min(m,n))|
 | 205    | Isomorphic Strings | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Isomorphic-Strings.cpp)|O(n)|O(1)|
+| 206    | Reverse Linked List | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Reverse-Linked-List.cpp)|O(n)|O(1)|
 | 278    | First Bad Version | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/First-Bad-Version.cpp)|O(log n)|O(1)|
 | 235    | Lowest Common Ancestor of a Binary Search Tree | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Lowest-Common-Ancestor-of-a-Binary-Search-Tree.cpp)|O(h)|O(h)|
 | 299    | Bulls and Cows | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Bulls-and-Cows.cpp)|O(n)|O(1)|
@@ -47,9 +49,11 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 424    | Longest Repeating Character Replacement | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Longest-Repeating-Character-Replacement.cpp)|O(n)|O(1)|
 | 438    | Find All Anagrams in a String | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Find-All-Anagrams-in-a-String.cpp)|O(n)|O(1)|
 | 509    | Fibonacci Number | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Fibonnaic-Number.cpp)|O(n)|O(1)|
+| 589    | N-ary-Tree-Preorder-Traversal | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/N-ary-Tree-Preorder-Traversal.cpp)|O(n)|O(n)|
 | 704    | Binary Search | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Binary-Search.cpp)|O(log n)|O(1)|
 | 724    | Find Pivot Index | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Find-Pivot-Index.cpp)|O(n)|O(1)|
 | 733    | Flood Fill | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Flood-Fill.cpp)|O(n^2)|O(n^2)|
+| 746    | Min Cost Climbing Stairs | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Min-Cost-Climbing-Stairs.cpp)|O(n)|O(1)|
 | 844    | Backspace String Compare | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Backspace-String-Compare.cpp)|O(n)|O(1)|
 | 876    | Middle of the Linked List | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Middle-of-the-Linked-List.cpp)|O(n)|O(1)|
 | 1046   | Last Stone Weight | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201/Last-Stone-Weight.cpp)|O(n log n)|O(n)|
@@ -67,7 +71,9 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 102    | Binary Tree Level Order Traversal | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Binary-Tree-Level-Order-Traversal.cpp)|O(n)|O(n)|
 | 121    | Best Time to Buy and Sell Stock | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Best-Time-to-Buy-and-Sell-Stock.cpp)|O(n)|O(1)|
 | 142    | Linked List Cycle 2 | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Linked-List-Cycle-2.cpp)|O(n)|O(1)|
+| 200    | Number of Islands | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Number-of-Islands.cpp)|O(m*n)|O(min(m,n))|
 | 205    | Isomorphic Strings | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Isomorphic-Strings.cpp)|O(n)|O(1)|
+| 206    | Reverse Linked List | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Reverse-Linked-List.cpp)|O(n)|O(1)|
 | 278    | First Bad Version | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/First-Bad-Version.cpp)|O(log n)|O(1)|
 | 235    | Lowest Common Ancestor of a Binary Search Tree | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Lowest-Common-Ancestor-of-a-Binary-Search-Tree.cpp)|O(h)|O(h)|
 | 299    | Bulls and Cows | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Bulls-and-Cows.cpp)|O(n)|O(1)|
@@ -77,9 +83,11 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 424    | Longest Repeating Character Replacement | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Longest-Repeating-Character-Replacement.cpp)|O(n)|O(1)|
 | 438    | Find All Anagrams in a String | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Find-All-Anagrams-in-a-String.cpp)|O(n)|O(1)|
 | 509    | Fibonacci Number | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Fibonnaic-Number.cpp)|O(n)|O(1)|
+| 589    | N-ary-Tree-Preorder-Traversal | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/N-ary-Tree-Preorder-Traversal.cpp)|O(n)|O(n)|
 | 704    | Binary Search | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Binary-Search.cpp)|O(log n)|O(1)|
 | 724    | Find Pivot Index | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Find-Pivot-Index.cpp)|O(n)|O(1)|
 | 733    | Flood Fill | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Flood-Fill.cpp)|O(n^2)|O(n^2)|
+| 746    | Min Cost Climbing Stairs | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Min-Cost-Climbing-Stairs.cpp)|O(n)|O(1)|
 | 844    | Backspace String Compare | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Backspace-String-Compare.cpp)|O(n)|O(1)|
 | 876    | Middle of the Linked List | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Middle-of-the-Linked-List.cpp)|O(n)|O(1)|
 | 1046   | Last Stone Weight | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Last-Stone-Weight.cpp)|O(n log n)|O(n)|
