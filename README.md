@@ -20,7 +20,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 
 ## Sections...
 
-- [LeetCode 75 Study Plan to Ace Interview Level 1](#https://github.com/Harsh971/LeetCode-Solutions/tree/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201)
+- [LeetCode 75 Study Plan to Ace Interview Level 1](https://github.com/Harsh971/LeetCode-Solutions/tree/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201)
 - [LeetCode 75 Study Plan to Ace Interview Level 2](#)
 - [All Practice Problems](#all-practice-problems)
 
