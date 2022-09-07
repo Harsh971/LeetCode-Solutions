@@ -18,10 +18,10 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" width="50"/> </a>
   
 
-## Sections...
+## Sections... (Click on these to View Solutions of them Individually...)
 
 - [LeetCode 75 Study Plan to Ace Interview Level 1](https://github.com/Harsh971/LeetCode-Solutions/tree/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%201)
-- [LeetCode 75 Study Plan to Ace Interview Level 2](#)
+- [LeetCode 75 Study Plan to Ace Interview Level 2](https://github.com/Harsh971/LeetCode-Solutions/tree/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202)
 - [All Practice Problems](#all-practice-problems)
 
 
@@ -33,6 +33,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 1      | Two Sum | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Two-Sum.java)|O(n)|O(n)|
 | 9      | Palindrome Number | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Palindrome-Number.cpp)|O(log n)|O(log n)|
 | 13     | Roman to Integer | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Roman-to-Integer.cpp)|O(n)|O(1)|
+| 16     | 3Sum Closest | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/3Sum-Closest.cpp)|O(n^n)|O(ans)|
 | 21     | Merge Two Sorted Lists | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Merge-Two-Sorted-Lists.cpp)|O(n1+n2)|O(n1+n2)|
 | 62     | Unique Paths | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Unique-Paths.cpp)|O(m*n)|O(n)|
 | 70     | Climbing Stairs | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Climbing-Stairs.cpp)|O(n)|O(1)|
