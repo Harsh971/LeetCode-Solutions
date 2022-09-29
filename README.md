@@ -64,6 +64,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 733    | Flood Fill | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Flood-Fill.cpp)|O(n^2)|O(n^2)|
 | 735    | Asteroid Collision | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Asteroid-Collision.cpp)|O(n)|O(n)|
 | 746    | Min Cost Climbing Stairs | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Min-Cost-Climbing-Stairs.cpp)|O(n)|O(1)|
+| 815    | Bus Routes | Hard|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Bus-Routes.cpp)|O(n^2)|O(n^2)|
 | 844    | Backspace String Compare | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Backspace-String-Compare.cpp)|O(n)|O(1)|
 | 876    | Middle of the Linked List | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Middle-of-the-Linked-List.cpp)|O(n)|O(1)|
 | 1046   | Last Stone Weight | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/Solutions/Last-Stone-Weight.cpp)|O(n log n)|O(n)|
