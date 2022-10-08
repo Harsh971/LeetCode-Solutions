@@ -26,6 +26,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 110    | Balanced Binary Tree | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Balanced-Binary-Tree.cpp)|O(n log n)|O(h)|
 | 173    | Balanced Search Tree Iterator | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Binary-Search-Tree-Iterator.cpp)|O(h)|O(h)|
 | 199    | Binary Tree Right Side View | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Binary-Tree-Right-Side-View.cpp)|O(n)|O(n)|
+| 210    | Course Schedule 2 | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Course-Schedule-2.cpp)|O(n)|O(n)|
 | 227    | Basic Calculator 2 | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Basic-Calculator-II.cpp)|O(n)|O(1)|
 | 322    | Coin Change | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Coin-Change.cpp)|O(m*n)|O(m)|
 | 735    | Asteroid Collision | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Asteroid-Collision.cpp)|O(n)|O(n)|
