@@ -33,6 +33,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 210    | Course Schedule 2 | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Course-Schedule-2.cpp)|O(n)|O(n)|
 | 226    | Invert Binary Tree | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Invert-Binary-Tree.cpp)|O(n)|O(h)|
 | 227    | Basic Calculator 2 | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Basic-Calculator-II.cpp)|O(n)|O(1)|
+| 230    | Kth Smallest Element in a BST | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Kth-Smallest-Element-in-a-BST.cpp)|O(n)|O(h)|
 | 232    | Implement Queue using Stack | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Implement-Queue-using-Stacks.cpp)|O(1)|O(n)|
 | 322    | Coin Change | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Coin-Change.cpp)|O(m*n)|O(m)|
 | 543    | Diameter of Binary Tree | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Diameter-of-Binary-Tree.cpp)|O(n)|O(h)|
