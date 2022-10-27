@@ -20,6 +20,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 
 |  | Problem Name     |Difficulty Level|Solution|Time Complexity|Space Complexity|
 | :-: | :-: |:-:| :-: | :-:|:-:|
+| 14     | Longest Common Prefix | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Longest-Common-Prefix.cpp)|O(|str[0]|*|str|)|O(|str[0]|)|
 | 16     | 3Sum Closest | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/3Sum-Closest.cpp)|O(n^n)|O(ans)|
 | 39     | Combination Sum | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Combination-Sum.cpp)|O(C^T)|O(T)|
 | 57     | Insert Interval | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Insert-Interval.cpp)|O(n)|O(n)|
