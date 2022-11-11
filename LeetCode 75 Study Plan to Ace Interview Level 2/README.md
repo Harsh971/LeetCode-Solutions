@@ -45,6 +45,7 @@ Here you will get All Solutions for Topics from LeetCode Platform which i Solve 
 | 543    | Diameter of Binary Tree | Easy|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Diameter-of-Binary-Tree.cpp)|O(n)|O(h)|
 | 735    | Asteroid Collision | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Asteroid-Collision.cpp)|O(n)|O(n)|
 | 815    | Bus Routes | Hard|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Bus-Routes.cpp)|O(n^2)|O(n^2)|
+| 947    | Most Stones Removed with Same Row or Column | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Most-Stones-Removed-with-Same-Row-or-Column.cpp)|O(n^2)|O(n)|
 | 2131    | Longest Palindrome by Concatenating Two Letter Words | Medium|[Click Here](https://github.com/Harsh971/LeetCode-Solutions/blob/main/LeetCode%2075%20Study%20Plan%20to%20Ace%20Interview%20Level%202/Longest-Palindrome-by-Concatenating-Two-Letter-Words.cpp)|O(n)|O(1)|
 
 ## Feedback
